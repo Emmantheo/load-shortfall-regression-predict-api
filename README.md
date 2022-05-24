@@ -76,7 +76,7 @@ To do this, follow the steps below by running the given commands within a Git ba
  1. Ensure that you have the prerequisite Python libraries installed on your local machine:
 
  ```bash
- pip install -U flask numpy pandas scikit-learn
+ pip install -U flask numpy pandas scikit-learn requests
  ```
 
  2. Clone the *forked* repo to your local machine.
